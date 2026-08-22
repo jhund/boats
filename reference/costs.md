@@ -1,6 +1,6 @@
 # Costs
 
-[← Home](../README.md) · [Materials](materials.md)
+[← Home](../README.md) · [Bill of materials](bill-of-materials.md)
 
 Running tally, in *TODO: currency*. Honest numbers, including the tools I bought for this build
 and the consumables everyone forgets.

@@ -2,15 +2,6 @@
 
 [← Log index](README.md) · [← Previous entry](010-install-stringers-1-and-2.md) · [Next entry →](012-prepare-and-install-doublers.md)
 
-| | |
-|---|---|
-| **Date** | TODO |
-| **Phase** | Build the basket |
-| **Hours** | 0 |
-| **Plans reference** | e.g. Sheet 3, "Bulkhead patterns" |
-| **Materials used** | e.g. ½ sheet 9mm okoume, 300ml epoxy — see [Materials](../reference/materials.md) |
-| **Tools used** | e.g. jigsaw, block plane, 4ft batten — see [Tools](../reference/tools.md) |
-
 ## Goal
 
 One or two sentences: what this session was supposed to achieve.

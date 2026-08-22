@@ -1,4 +1,4 @@
-# Rudder & Tiller
+# Rudder & tiller
 
 [← Research index](README.md)
 

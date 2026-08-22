@@ -1,15 +1,6 @@
 # 016 · Finish the lower interior
 
-[← Log index](README.md) · [← Previous entry](015-prepare-and-install-planks-1.md) · [Next entry →](017-install-stringers-3-and-prepare-planks-3.md)
-
-| | |
-|---|---|
-| **Date** | TODO |
-| **Phase** | Putting on the skin |
-| **Hours** | 0 |
-| **Plans reference** | e.g. Sheet 3, "Bulkhead patterns" |
-| **Materials used** | e.g. ½ sheet 9mm okoume, 300ml epoxy — see [Materials](../reference/materials.md) |
-| **Tools used** | e.g. jigsaw, block plane, 4ft batten — see [Tools](../reference/tools.md) |
+[← Log index](README.md) · [← Previous entry](015-prepare-and-install-planks-1-and-prepare-planks-2.md) · [Next entry →](017-install-stringers-3-and-prepare-planks-3.md)
 
 ## Goal
 
@@ -41,4 +32,4 @@ What this unblocks, and what's next.
 
 ---
 
-[← Log index](README.md) · [← Previous entry](015-prepare-and-install-planks-1.md) · [Next entry →](017-install-stringers-3-and-prepare-planks-3.md)
+[← Log index](README.md) · [← Previous entry](015-prepare-and-install-planks-1-and-prepare-planks-2.md) · [Next entry →](017-install-stringers-3-and-prepare-planks-3.md)

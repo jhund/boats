@@ -1,4 +1,4 @@
-# Anchors and Drogue
+# Anchors and drogue
 
 [← Research index](README.md)
 
@@ -23,7 +23,7 @@
       - ![image.png](images/image_1757076720417_0.jpg)
   - Anchor locker
     - Phil McG has an anchor locker in the port side bench
-      - ![image.png](images/image_1753568385083_0.jpg){:height 449, :width 505}
+      - ![image.png](images/image_1753568385083_0.jpg)
     - Ian Devenney has an anchor locker in the cockpit aft
       - ![image.png](images/image_1753640442661_0.jpg)
     - I will put mine at the aft of the cockpit, stbd side.

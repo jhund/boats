@@ -2,15 +2,6 @@
 
 [← Log index](README.md) · [← Previous entry](006-epoxy-coat-parts.md) · [Next entry →](008-install-the-bottom-panel.md)
 
-| | |
-|---|---|
-| **Date** | TODO |
-| **Phase** | Set up the build platform |
-| **Hours** | 6 |
-| **Plans reference** | TODO — sheet / page |
-| **Materials used** | TODO — e.g. 4× 2400mm 2x4 softwood, 1 sheet 18mm construction ply, 3" screws |
-| **Tools used** | TODO — see [Tools](../reference/tools.md) |
-
 > **This is the example entry.** It shows the shape every entry should take. Replace the content
 > with the real thing, keep the structure.
 

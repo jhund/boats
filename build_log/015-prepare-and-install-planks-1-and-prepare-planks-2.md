@@ -1,15 +1,6 @@
-# 015 · Prepare and install planks #1
+# 015 · Prepare and install planks #1 and prepare planks #2
 
 [← Log index](README.md) · [← Previous entry](014-build-and-install-the-mizzen-mast-box.md) · [Next entry →](016-finish-the-lower-interior.md)
-
-| | |
-|---|---|
-| **Date** | TODO |
-| **Phase** | Putting on the skin |
-| **Hours** | 0 |
-| **Plans reference** | e.g. Sheet 3, "Bulkhead patterns" |
-| **Materials used** | e.g. ½ sheet 9mm okoume, 300ml epoxy — see [Materials](../reference/materials.md) |
-| **Tools used** | e.g. jigsaw, block plane, 4ft batten — see [Tools](../reference/tools.md) |
 
 ## Goal
 
@@ -22,7 +13,7 @@ Numbered steps, in the order I actually did them. Enough detail that someone cou
 1. Step one.
 2. Step two.
 
-   <!-- ![Caption describing what the photo shows](images/015-prepare-and-install-planks-1/01-something.jpg) -->
+   <!-- ![Caption describing what the photo shows](images/015-prepare-and-install-planks-1-and-prepare-planks-2/01-something.jpg) -->
 
 3. Step three.
 

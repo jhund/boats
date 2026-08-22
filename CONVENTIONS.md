@@ -20,7 +20,8 @@ build_log/
 reference/
   README.md            Index of the reference section
   tools.md
-  materials.md         Includes Amazon affiliate links
+  bill-of-materials.md Includes Amazon affiliate links
+  plan-modifications.md
   techniques.md
   glossary.md
   costs.md
@@ -41,10 +42,11 @@ scripts/
 
 - Named `NNN-short-slug.md`, zero-padded, monotonically increasing. Numbers never change once
   pushed — links elsewhere depend on them.
-- The number is the order the work happened in. The date lives in the metadata table.
+- The number is the order the work happened in.
 - One entry per session or per discrete job. A three-day fairing marathon can be one entry.
-- Every entry starts with a nav line and the metadata table from `_template.md`, and ends with the
-  same nav line.
+- Every entry starts with a nav line and ends with the same nav line.
+- No metadata table: dates, hours, plans references and material lists are deliberately kept out
+  of the published entries.
 - Don't renumber to insert work you forgot. Add it at the end with the real date, and link to it
   from the entry it belongs near.
 
@@ -66,7 +68,9 @@ That creates `build_log/NNN-fitting-the-bulkheads.md` from the template and
 ## Photos
 
 - Live in `build_log/images/<entry-slug>/`, referenced relatively: `![Caption](images/<entry-slug>/01-thing.jpg)`.
-- Named `NN-what-it-shows.jpg`, numbered in the order they appear in the entry.
+- Named `group-NN-what-it-shows.jpg`, numbered in the order they appear in the entry.
+- Always `.jpg`, never `.jpeg`. One extension, so links stay predictable. No spaces or
+  parentheses in filenames: markdown links break on both.
 - **Resize before committing.** Longest edge ~1600px, JPEG quality ~80, under ~500KB. Git keeps
   every version of every binary forever; full-size camera files will make this repo unclonable.
   ```sh
@@ -92,13 +96,15 @@ That creates `build_log/NNN-fitting-the-bulkheads.md` from the template and
 
 ## Affiliate links
 
-- Only in `reference/materials.md` and `reference/tools.md`, marked *(aff)* in the table.
+- Only in `reference/bill-of-materials.md` and `reference/tools.md`, marked *(aff)* in the table.
 - Format: `https://www.amazon.com/dp/ASIN?tag=YOURTAG-20`
 - The disclosure at the bottom of `README.md` needs to stay there.
 - Recommend only what you actually used.
 
 ## Writing style
 
+- Sentence case for every heading, page title and link label — capitalise only the first word
+  and proper nouns (Long Steps, Welsford, CNC).
 - Second person for instructions, first person for what happened.
 - Real numbers: measurements, hours, litres of epoxy, dollars.
 - Write down the mistake. It's the most useful thing in the log.

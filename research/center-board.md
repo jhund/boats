@@ -130,16 +130,16 @@
     - JW recommends this: You can bore the holes well oversize, fill them with thickened epoxy and redrill them at the proper size for the bolt.
   - I asked Claude about axle and bushings:
     - Centerboard pivots take significant loads, so material choice and proper installation matter. Here's what works well:
-    - ## Axle Materials
+    - ## Axle materials
       **Stainless steel (316 grade)** is the most common choice—strong, corrosion-resistant, and readily available as rod stock. Use 316 rather than 304 for better saltwater resistance.
       **Bronze** is a traditional option that's extremely durable in marine environments and won't cause galvanic issues with stainless fasteners.
       **Fiberglass rod** is an increasingly popular alternative. It won't corrode at all, is lighter, and can be bonded directly with epoxy. It's plenty strong for most dinghies.
-    - ## Bushing Materials
+    - ## Bushing materials
       **Delrin (acetal)** is arguably the best choice—low friction, doesn't absorb water, machines easily, and is very durable. It's widely used in production boats.
       **UHMW polyethylene** has similar properties: slippery, doesn't swell, and is inexpensive.
       **Bronze bushings** (particularly oil-impregnated sintered bronze) are traditional and long-lasting, though heavier.
       Avoid nylon, which absorbs water and swells over time.
-    - ## Attachment to Your Boat
+    - ## Attachment to your boat
       For a plywood/epoxy/glass boat, you have several good options:
     - **Reinforced trunk sides**: Laminate extra plywood or hardwood pads on the inside of the trunk at the pivot location to provide solid material for the bushing.
     - **Flanged bushings**: Use bushings with a flange and epoxy them into holes drilled through the trunk. Glass over the flanges for security.

@@ -16,18 +16,22 @@ QUAL  = 82        # jpeg quality
 PHOTO = 20000     # unique colours above which an image is treated as a photo
 
 root   = pathlib.Path(__file__).resolve().parent.parent
-DIRS   = [root/'research/images', root/'reference/images']
+DIRS   = [root/'research/images', root/'reference/images', root/'build_log/images']
 RASTER = {'.png', '.jpg', '.jpeg', '.webp'}
+SKIP   = {'.mov', '.mp4', '.pdf', '.svg'}   # never touched
 
 def sh(*a):
     return subprocess.run(a, capture_output=True, text=True).stdout.strip()
 
 def plan(p):
+    # only PNGs are candidates for JPEG conversion, so only they need a colour count
+    # (counting unique colours on a 4000px photo is slow and pointless otherwise)
+    if p.suffix.lower() != '.png':
+        return p, None, p
     colors = sh('magick', str(p), '-format', '%k', 'info:')
     try: colors = int(colors)
     except ValueError: colors = PHOTO + 1          # unreadable → treat as photo
-    to_jpeg = p.suffix.lower() == '.png' and colors > PHOTO
-    return p, colors, (p.with_suffix('.jpg') if to_jpeg else p)
+    return p, colors, (p.with_suffix('.jpg') if colors > PHOTO else p)
 
 def convert(job):
     src, colors, dst = job

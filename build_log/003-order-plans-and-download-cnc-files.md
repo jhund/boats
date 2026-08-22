@@ -2,15 +2,6 @@
 
 [← Log index](README.md) · [← Previous entry](002-why-and-how-i-chose-long-steps.md) · [Next entry →](004-get-tools-and-materials.md)
 
-| | |
-|---|---|
-| **Date** | TODO |
-| **Phase** | Preparation |
-| **Hours** | 0 |
-| **Plans reference** | e.g. Sheet 3, "Bulkhead patterns" |
-| **Materials used** | e.g. ½ sheet 9mm okoume, 300ml epoxy — see [Materials](../reference/materials.md) |
-| **Tools used** | e.g. jigsaw, block plane, 4ft batten — see [Tools](../reference/tools.md) |
-
 ## Goal
 
 One or two sentences: what this session was supposed to achieve.
@@ -76,5 +67,4 @@ What this unblocks, and what's next.
 ---
 
 [← Log index](README.md) · [← Previous entry](002-why-and-how-i-chose-long-steps.md) · [Next entry →](004-get-tools-and-materials.md)
-
 

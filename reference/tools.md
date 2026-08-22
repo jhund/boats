@@ -1,6 +1,6 @@
 # Tools
 
-[← Home](../README.md) · [Materials](materials.md) · [Techniques](techniques.md) · [Glossary](glossary.md)
+[← Home](../README.md) · [Bill of materials](bill-of-materials.md) · [Techniques](techniques.md) · [Glossary](glossary.md)
 
 What I actually used. Links marked *(aff)* are Amazon affiliate links.
 

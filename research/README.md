@@ -9,27 +9,31 @@ not yet edited for final copy.
 ## Topics
 
 - [Accessories](accessories.md)
-- [Anchors and Drogue](anchors-and-drogue.md)
+- [Anchors and drogue](anchors-and-drogue.md)
 - [Center board](center-board.md)
 - [Clothing](clothing.md)
 - [Cockpit](cockpit.md)
 - [Cuddy](cuddy.md)
-- [Decks and Hardware](decks-and-hardware.md)
+- [Decks and hardware](decks-and-hardware.md)
 - [Drainage](drainage.md)
 - [Electric motor](electric-motor.md)
 - [Hull](hull.md)
 - [Masts and spars](masts-and-spars.md)
-- [Other Builders](other-builders.md)
+- [Other builders](other-builders.md)
 - [Paint](paint.md)
 - [Planks and stringers](planks-and-stringers.md)
 - [Rigging](rigging.md)
 - [Rowing](rowing.md)
 - [Rub rails](rub-rails.md)
-- [Rudder & Tiller](rudder-tiller.md)
-- [Safety and Security](safety-and-security.md)
+- [Rudder & tiller](rudder-tiller.md)
+- [Safety and security](safety-and-security.md)
 - [Sails](sails.md)
 - [Storage](storage.md)
 - [Tent](tent.md)
 - [Trailer](trailer.md)
 - [Ventilation](ventilation.md)
-- [Water Ballast](water-ballast.md)
+- [Water ballast](water-ballast.md)
+
+---
+
+*25 topics, extracted from a Logseq outline. Not yet edited for final copy.*

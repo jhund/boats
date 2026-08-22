@@ -1,6 +1,6 @@
 # Techniques & tips
 
-[← Home](../README.md) · [Tools](tools.md) · [Materials](materials.md) · [Glossary](glossary.md)
+[← Home](../README.md) · [Tools](tools.md) · [Bill of materials](bill-of-materials.md) · [Glossary](glossary.md)
 
 General technique, not tied to any one build step. Entries in the [log](../build_log/README.md) link
 here rather than re-explaining the basics each time.

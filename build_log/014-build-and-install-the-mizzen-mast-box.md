@@ -1,15 +1,6 @@
 # 014 · Build and install the mizzen mast box
 
-[← Log index](README.md) · [← Previous entry](013-install-cabin-roof-edges.md) · [Next entry →](015-prepare-and-install-planks-1.md)
-
-| | |
-|---|---|
-| **Date** | TODO |
-| **Phase** | Build the basket |
-| **Hours** | 0 |
-| **Plans reference** | e.g. Sheet 3, "Bulkhead patterns" |
-| **Materials used** | e.g. ½ sheet 9mm okoume, 300ml epoxy — see [Materials](../reference/materials.md) |
-| **Tools used** | e.g. jigsaw, block plane, 4ft batten — see [Tools](../reference/tools.md) |
+[← Log index](README.md) · [← Previous entry](013-install-cabin-roof-edges.md) · [Next entry →](015-prepare-and-install-planks-1-and-prepare-planks-2.md)
 
 ## Goal
 
@@ -41,4 +32,4 @@ What this unblocks, and what's next.
 
 ---
 
-[← Log index](README.md) · [← Previous entry](013-install-cabin-roof-edges.md) · [Next entry →](015-prepare-and-install-planks-1.md)
+[← Log index](README.md) · [← Previous entry](013-install-cabin-roof-edges.md) · [Next entry →](015-prepare-and-install-planks-1-and-prepare-planks-2.md)

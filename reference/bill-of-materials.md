@@ -1,4 +1,4 @@
-# Materials
+# Bill of materials
 
 [← Home](../README.md) · [Tools](tools.md) · [Techniques](techniques.md) · [Costs](costs.md)
 
@@ -92,7 +92,7 @@ Nobody budgets for these and they add up to real money. See [Costs](costs.md).
       - **The Titebond Family of Aliphatics**: Convenient. No mixing, just squeeze. Short open times, fast tack, and short clamping times. Fast, and an acceptable long-grain layup glue…in heated, commercial shops, I’ve had rough-cut Titebond panel layups in and out of the clamps and thru the planer inside of an hour. Flexible in temperature and to a lesser extent in moisture content, but the bottled glue can freeze in unheated shops, and glueups require 55 degrees or warmer to cure. A flexible glue, it has been reported to creep under load, sometimes several years after the joint was made. Franklin doesn't recommend Titebond for either structural (think Gluelam beams) or marine use. The latest “Titebond III” appears to be a stronger glue than its two predecessors. Difficult glues to repair, as they won’t stick to themselves and no other glues will except cyanoacrylates, which are too brittle for general use. Epoxy and fabric aren’t bonding to aliphatic glue lines in marine strip construction, compounding repair difficulties. While not definitive, the new PL Premium appears to bond well to Titebond III residue and is worth pursuing by those repairing old white and yellow aliphatic joints.
   - ### Canvas, sail, fabric, hardware
     - Sailrite has lots of supplies and tools available, as well as good instructions for anything related to sewing on boats: [Sailrite: Fabric and Sewing Supply Store](https://www.sailrite.com/)
-  - ### CNC Plywood cutting
+  - ### CNC plywood cutting
     - https://www.islandlaser.ca/
       - I spoke with Thomas on Aug. 1 about his services.
       - He does this kind of CNC work
@@ -121,7 +121,7 @@ Nobody budgets for these and they add up to real money. See [Costs](costs.md).
     - Sawmill Direct in Ladysmith
       - https://www.sawmillsales.ca
       - They sell Red and Yellow Cedar and Douglas Fir in different dimensions at reasonable prices. They advertise clear lumber for Yellow Cedar. I could probably inquire for Doug Fir, too.
-  - ### Marine Plywood
+  - ### Marine plywood
     - Windsor Plywood in Courtenay
       - 6mm Okume certified marine plywood: $96 CAD per 4x8' sheet. May take 1-2 weeks to order from HQ in Vancouver.
       - 9mm Okume certified marine plywood: $130 CAD per 4x8' sheet. May take 1-2 weeks to order from HQ in Vancouver.
@@ -151,8 +151,8 @@ Nobody budgets for these and they add up to real money. See [Costs](costs.md).
         - Go to home page, scroll down until you find Welsford boats, expand accordion.
         - You will find an entry for John Welsford Walkabout Balance Lug Yawl
       - I bought my sails from them:
-        - 1x WELS LONGSTEPS 16 2025 Oz2B Lug Main Main and Mizzen 6oz White ($1,299.67CAD)
-        - 1x Sailbag B900267B/C ($80.36CAD)
+        - 1xWELS LONGSTEPS 16 2025 Oz2B Lug Main Main and Mizzen 6oz White ($1,299.67CAD)
+        - 1xSailbag B900267B/C ($80.36CAD)
         - Import feeds, duty, tarrifs (thanks big D) ($104CAD)
         - **Total: $1484CAD**
       - I ordered them on Feb 11, 2026 and received them on Apr 14, 2026 (2 months later)

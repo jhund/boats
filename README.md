@@ -29,7 +29,7 @@ The build in phases:
 | 2. Preparation | [003](build_log/003-order-plans-and-download-cnc-files.md)–[006](build_log/006-epoxy-coat-parts.md) | TODO |
 | 3. Set up the build platform | [007](build_log/007-set-up-the-build-frame.md)–[008](build_log/008-install-the-bottom-panel.md) | TODO |
 | 4. Build the basket | [009](build_log/009-install-bulkheads.md)–[014](build_log/014-build-and-install-the-mizzen-mast-box.md) | TODO |
-| 5. Putting on the skin | [015](build_log/015-prepare-and-install-planks-1.md)–[017](build_log/017-install-stringers-3-and-prepare-planks-3.md) | TODO |
+| 5. Putting on the skin | [015](build_log/015-prepare-and-install-planks-1-and-prepare-planks-2.md)–[017](build_log/017-install-stringers-3-and-prepare-planks-3.md) | TODO |
 
 *Later phases — deck and cockpit, paint and varnish, spars and rigging,
 foils and fit-out, launch and sea trials — get added as I get there.*
@@ -39,7 +39,8 @@ foils and fit-out, launch and sea trials — get added as I get there.*
 Not chronological — the stuff you'd want to look up while building.
 
 - **[Tools](reference/tools.md)** — what I used, what I could have skipped, what I wish I'd bought first.
-- **[Materials](reference/materials.md)** — plywood, epoxy, glass, fasteners, paint, with quantities and links.
+- **[Bill of materials](reference/bill-of-materials.md)** — plywood, epoxy, glass, fasteners, paint, with quantities and links.
+- **[Plan modifications](reference/plan-modifications.md)** — every deviation from the plans as drawn, and why.
 - **[Techniques & tips](reference/techniques.md)** — epoxy handling, scarf joints, fillets, fairing, shop practice.
 - **[Glossary](reference/glossary.md)** — boatbuilding vocabulary, for those of us who had to look it all up.
 - **[Costs](reference/costs.md)** — running tally of what this has actually cost.

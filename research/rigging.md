@@ -32,7 +32,7 @@
     - https://www.storerboatplans.com/tuning/lug-rig-setup/test-for-google-docs/
       - Downhaul is the single most important sail control (because of twist). On bigger boats he recommends a 5:1 or 6:1 purchase.
         -
-          > In very light winds – too light for the boat to move reliably the downhaul can be slack to allow the sail to twist.  As soon as the boat starts moving reliably the downhaul must be firm.  When starting to lean out it needs to be tight.  As the boat becomes overpowered it should have BRUTAL tension.
+          > In very light winds – too light for the boat to move reliably the downhaul can be slack to allow the sail to twist. As soon as the boat starts moving reliably the downhaul must be firm. When starting to lean out it needs to be tight. As the boat becomes overpowered it should have BRUTAL tension.
       - Mast shouldn't bend too much. He says 2.5" diameter with 0.065" wall thickness should be ok
   - JR Boatworks has beautiful rigging
     - ![image.png](images/image_1756748433661_0.jpg)

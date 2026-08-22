@@ -42,7 +42,7 @@ Every entry, oldest first. Each entry is one work session or one discrete job.
 
 | # | Date | Entry | Hours |
 |---|---|---|---|
-| 015 | TODO | [Prepare and install planks #1](015-prepare-and-install-planks-1.md) | TODO |
+| 015 | TODO | [Prepare and install planks #1 and prepare planks #2](015-prepare-and-install-planks-1-and-prepare-planks-2.md) | TODO |
 | 016 | TODO | [Finish the lower interior](016-finish-the-lower-interior.md) | TODO |
 | 017 | TODO | [Install stringers #3 and prepare planks #3](017-install-stringers-3-and-prepare-planks-3.md) | TODO |
 

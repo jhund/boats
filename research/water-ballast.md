@@ -1,4 +1,4 @@
-# Water Ballast
+# Water ballast
 
 [← Research index](README.md)
 

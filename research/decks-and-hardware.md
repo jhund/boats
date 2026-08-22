@@ -1,4 +1,4 @@
-# Decks and Hardware
+# Decks and hardware
 
 [← Research index](README.md)
 

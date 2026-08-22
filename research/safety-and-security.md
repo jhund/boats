@@ -1,8 +1,8 @@
-# Safety and Security
+# Safety and security
 
 [← Research index](README.md)
 
-- ## Safety and Security
+- ## Safety and security
   - Ability to lock the boat
     - With a bike lock when I have to leave the boat unsupervised somewhere.
     - All I'd need is an opening in the boat that I can feed a lock or a chain through.

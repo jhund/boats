@@ -2,11 +2,6 @@
 
 [← Log index](README.md) · [← Previous entry](001-my-prior-boatbuilding-experience.md) · [Next entry →](003-order-plans-and-download-cnc-files.md)
 
-| | |
-|---|---|
-| **Date** | TODO |
-| **Phase** | My journey to Long Steps |
-
 TODO — background, not a work session. Write it as prose.
 
 - ## About
@@ -19,7 +14,7 @@ TODO — background, not a work session. Write it as prose.
     - Beam 5'7" (67", 170cm)
     - Weight: 485 lbs (220kg)
     - Similar rigging to Walkabout: Balanced lug and mizzen
-- ## My Motivation
+- ## My motivation
   - I'm hoping that building and using this boat will make sure that there is enough adventure in my life.
   - I want to be able to go on voyages to places where I can escape the business and find peace and quiet. Ideally with a good companion.
 - ## Compared to Walkabout
@@ -40,7 +35,6 @@ TODO — background, not a work session. Write it as prose.
       - Can I get it on and off the trailer, e.g., to use the trailer for the row boat? Build a hoist in the boat shed using the roof rafters
       - Can I dolly the boat and trailer from the shed to the road? Pave the path, or use temporary tracks
       - Can I handle it into and out of the water? What about beaching it? Getting it on and off the trailer at the boat ramp?
-
 
 ## Notes
 
