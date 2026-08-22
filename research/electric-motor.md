@@ -53,14 +53,14 @@
     - This is probably the one JW is referring to here:
       -
         > One has been built with a "well" for an electric outboard motor just ahead of the tiller bulkhead, its a very small well, looks about 200mm fore and aft, and about 120mm wide. Those electric outboards are much smaller than the gas ones.
-    - ![image.png](../assets/image_1753563003442_0.jpg)
-    - ![image.png](../assets/image_1753563234876_0.jpg)
-    - ![image.png](../assets/image_1753563262552_0.jpg)
+    - ![image.png](images/image_1753563003442_0.jpg)
+    - ![image.png](images/image_1753563234876_0.jpg)
+    - ![image.png](images/image_1753563262552_0.jpg)
   - wetdog29 mounts the motor on the starboard side of his Tilly Ilur
     - [How I fit my short shaft outboard to my Ilur dinghy. - YouTube](https://www.youtube.com/watch?v=cm7enAkZUuA)
-    - ![image.png](../assets/image_1756140707051_0.jpg)
+    - ![image.png](images/image_1756140707051_0.jpg)
     - See it in action in this video: [Tilly. Ilur cruising dinghy. When things don't go entirely to plan..... - YouTube](https://www.youtube.com/watch?v=sZaYKhPjekI)
-    - ![image.png](../assets/image_1776829703312_0.jpg)
+    - ![image.png](images/image_1776829703312_0.jpg)
   - JW has prepared for side-mounting a 2.3 HP combustion on his LS:
     -
       > My own LS has a pair of mini frames under the side deck where a bracket clips in on the port side so my 2.3 hp Honda motor can be rigged on that side, but as yet I've not felt the need to use it.
@@ -69,12 +69,12 @@
     - I'm not sure if it would  interfere with the rudder though...
   - Ian Devenny has a clever solution for a motor well in his longsteps: https://www.facebook.com/share/p/19TiwRwWog : He built a plug that goes all the way down to create a smooth hull surface when the motor is not used. I could add a glass bottom to the plug to have a glass bottom boat! This could work both for an inboard or for a pod motor:
     - [(1) John Welsford Small Craft Design | Bit of progress… | Facebook](https://www.facebook.com/groups/JWDesigns/posts/2363094647202738/)
-    - ![image.png](../assets/image_1757130275464_0.jpg)
-    - ![image.png](../assets/image_1757130300904_0.jpg)
-    - ![image.png](../assets/image_1757130326394_0.jpg)
-    - ![image.png](../assets/image_1753639563631_0.jpg)
+    - ![image.png](images/image_1757130275464_0.jpg)
+    - ![image.png](images/image_1757130300904_0.jpg)
+    - ![image.png](images/image_1757130326394_0.jpg)
+    - ![image.png](images/image_1753639563631_0.jpg)
   - Thad Hallberg has a side mount on his walkabout:
-    - ![image.png](../assets/image_1757367704516_0.jpg)
+    - ![image.png](images/image_1757367704516_0.jpg)
   - Jean-Francoise Hardy has a cool rudder integrated motor with a collapsible prop on his Scamp
     - https://www.facebook.com/share/p/17dBxpnGkU/
     - He says that larger diameter props yield much more range (double he claims). They don't accelerate as quickly, however, they are significantly more efficient

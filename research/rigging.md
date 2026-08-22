@@ -8,13 +8,13 @@
   - Main halyard rigging: Objective is to keep the yard high and close to the mast, and to make it easy to lower/reef the main sail. There are various approaches to do so:
     - This FB post shows some options for Scamp, LongSteps (with balanced lug) should be similar: [John Hippe on halyard connection](https://www.facebook.com/groups/JWDesigns/permalink/2964403517071845/?rdid=KnmUmxp8iKdlu4Pi)
       - SCAMP plans
-        - ![image.png](../assets/image_1754870579741_0.jpg)
+        - ![image.png](images/image_1754870579741_0.jpg)
       - [Ross Lillistone Wooden Boats: Up-date - Lugsail Yard Parrels](https://rosslillistonewoodenboat.blogspot.com/2016/11/up-date-lugsail-yard-parrels.html) aka snotter
-        - ![image.png](../assets/image_1754870805716_0.jpg)
+        - ![image.png](images/image_1754870805716_0.jpg)
       - Michael Storer has a whole page dedicated to [Balanced lug rigging. Here is a link to the halyard section](https://www.storerboatplans.com/tuning/lug-rig-setup/goat-island-skiff-rig-and-rigging-details-for-efficient-lug-sails/#h-the-mainsail-halyard)
         - And this one also has good info: [Controlling Sail Twist on Balance and other lug rigs. - Storer Boat Plans in Wood and Plywood](https://www.storerboatplans.com/tuning/lug-rig-setup/making-balance-lugs-faster-2013-setting-up-sails-spars-and-rigging/)
       - Paul Stovner recommends a variation on Michael Storer's system in the FB thread
-        - ![image.png](../assets/image_1754875515768_0.png)
+        - ![image.png](images/image_1754875515768_0.png)
   - Resources for rigging:
     - [Lug Rig Setup Archives - Storer Boat Plans in Wood and Plywood](https://www.storerboatplans.com/category/tuning/lug-rig-setup/)
       and https://www.storerboatplans.com/tuning/lug-rig-setup/test-for-google-docs/
@@ -35,7 +35,7 @@
           > In very light winds – too light for the boat to move reliably the downhaul can be slack to allow the sail to twist.  As soon as the boat starts moving reliably the downhaul must be firm.  When starting to lean out it needs to be tight.  As the boat becomes overpowered it should have BRUTAL tension.
       - Mast shouldn't bend too much. He says 2.5" diameter with 0.065" wall thickness should be ok
   - JR Boatworks has beautiful rigging
-    - ![image.png](../assets/image_1756748433661_0.jpg)
-    - ![image.png](../assets/image_1756748460013_0.jpg)
-    - ![image.png](../assets/image_1756748677789_0.jpg)
+    - ![image.png](images/image_1756748433661_0.jpg)
+    - ![image.png](images/image_1756748460013_0.jpg)
+    - ![image.png](images/image_1756748677789_0.jpg)
     -

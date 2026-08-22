@@ -4,7 +4,7 @@
 
   - Hull
     - Lonnie Black coated the bottom with at least two coats of graphite thickened epoxy
-      - ![image.png](../assets/image_1769385990807_0.jpg)
+      - ![image.png](images/image_1769385990807_0.jpg)
   - Cockpit
     - Recommendation is to paint the cockpit and the decks white [The WORST Listings I’ve Ever Seen (15 MASSIVE Sailboat Red Flags) - YouTube](https://www.youtube.com/watch?v=3GifyUiXYuM)
   - No-slip paint

@@ -8,7 +8,7 @@
     - https://www.facebook.com/share/p/1AMBQVuyzv/
   - Derek Desaunois
     - Nice longsteps build: [(1) Derek Desaunois | Facebook](https://www.facebook.com/groups/440526479459574/user/1664618510)
-    - ![image.png](../assets/image_1767558805880_0.jpg){:height 873, :width 489}
+    - ![image.png](images/image_1767558805880_0.jpg){:height 873, :width 489}
   - Etienne Muller (builds a Melonseed skiff, but amazing skills and lots to learn. Must view before build!)
     - https://www.facebook.com/media/set/?set=a.2263337930393674&type=3
   - Herman Peerdeman
@@ -63,9 +63,9 @@
     - [Dinghy Cruising NZ | Todd Harris and his John Welsford Walkabout "Deep Calling", forerunner to her larger sister Long Steps. | Facebook](https://www.facebook.com/groups/dinghycruisingNZ/posts/1855780051437001/)
     - [todd Harris | Flickr](https://www.flickr.com/photos/129075926@N06/)
     - [18' Stretched Welsford Walkabout Yawl (2015) - DEEP CALLING - Worldwide Classic Boat Show](https://classicboatshow.com/listing/deep-calling-18-stretched-welsford-walkabout-lug-yawl-2015/)
-    - ![image.png](../assets/image_1762813650829_0.jpg)
-    - ![image.png](../assets/image_1771953075208_0.jpg)
-    - ![image.png](../assets/image_1771953156069_0.jpg)
-    - ![image.png](../assets/image_1771953181917_0.jpg)
-    - ![image.png](../assets/image_1771953196764_0.jpg)
-    - ![image.png](../assets/image_1771953316854_0.jpg)
+    - ![image.png](images/image_1762813650829_0.jpg)
+    - ![image.png](images/image_1771953075208_0.jpg)
+    - ![image.png](images/image_1771953156069_0.jpg)
+    - ![image.png](images/image_1771953181917_0.jpg)
+    - ![image.png](images/image_1771953196764_0.jpg)
+    - ![image.png](images/image_1771953316854_0.jpg)

@@ -4,7 +4,7 @@
 
   - People suggest that having Long Steps and Walkabout hangover the back is ok because they have a small transom and no heavy motor
     - Here is Rick Thompson's with a Walkabout
-      - ![image.png](../assets/image_1758803243420_0.jpg)
+      - ![image.png](images/image_1758803243420_0.jpg)
   - Here is JW's response to Ron Parker's trailer question:
     - https://www.facebook.com/share/p/1G59zmUa64/
     -

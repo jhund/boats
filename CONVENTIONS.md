@@ -14,9 +14,9 @@ CONVENTIONS.md         This file
 build_log/
   README.md            Chronological index of every entry, grouped by phase
   _template.md         Copy this for a new entry
-  001-build-frame.md   One entry per work session or discrete job
+  007-set-up-the-build-frame.md   One entry per work session or discrete job
   images/
-    001-build-frame/   Photos for that entry, and only that entry
+    007-set-up-the-build-frame/    Photos for that entry, and only that entry
 reference/
   README.md            Index of the reference section
   tools.md
@@ -25,9 +25,16 @@ reference/
   glossary.md
   costs.md
   mistakes.md
+  images/              Images used by the reference pages
+research/              Notes worked out before and during the build
+  README.md            Index of the topic pages
+  center-board.md      One page per topic
+  images/              Every research image, flat (from the Logseq export)
 images/                Repo-level images only (hero shot, plan overview)
 scripts/
   new-entry.sh         Scaffolds a new entry + its image folder
+  extract-research.py  Splits pasted Logseq outline sections into topic pages
+  optimize-assets.py   Resizes/re-encodes the images/ folders for a sane repo size
 ```
 
 ## Entry files

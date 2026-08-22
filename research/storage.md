@@ -11,7 +11,7 @@
     - Places to hang things below cuddy roof
     - Floor system to keep items out of the bilge
       - Lonnie Black did this between B#1 and 2:
-      - ![image.png](../assets/image_1774834730946_0.jpg)
+      - ![image.png](images/image_1774834730946_0.jpg)
     - Trays above B#2 openings (support mast box and provide convenient storage space)
     - Objective is to not reduce ability to store large items! Find places that are not usable by large items anyways
     - Also should be easily reachable
@@ -26,4 +26,4 @@
   - Line stowage
     - Little bags to put lines into
   - Extra handles on access ports for easier opening
-    - ![image.png](../assets/image_1775704152724_0.jpg)
+    - ![image.png](images/image_1775704152724_0.jpg)

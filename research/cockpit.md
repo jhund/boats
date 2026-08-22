@@ -5,7 +5,7 @@
   - Bench seats and aft area
     - I built the aft seats (behind the standing area) like JW does. Seems to make sense. Looks like a very comfortable spot to sit when under sail. Also more buoyancy, storage, and strength. And makes it easier to build a sleep platform for two.
     - Derek Desaunois cockpit after area, nice curved back rests in the back
-      - ![image.png](../assets/image_1757076846554_0.jpg)
+      - ![image.png](images/image_1757076846554_0.jpg)
     - Ian Devenny has a very nice design for the cockpit after area with wet storage and motor well.
     - Benches should be fiberglassed for durability. Esp. the front edges where people will put their feed up against.
   - Compass
@@ -14,10 +14,10 @@
   - Hammock: Add attachment points for a hammock over the cockpit
     - 11' seems like a good size hammock for myself ([Size – Dream Hammock](https://dream-hammock.com/en-ca/pages/size)). That also happens to be the distance from the back of the cuddy to the mizzen mast. Alternatively I could stretch the hammock from the main mast to the mizzen mast.
     - Example for a hammock in a scamp
-      - ![image.png](../assets/image_1744419900050_0.jpg)
+      - ![image.png](images/image_1744419900050_0.jpg)
   - Cockpit lines
     - This boat brings the coaming lines going up to the cuddy further back into the cockpit. That looks quite nice. And then the coaming in the back of the cockpit is lower. How does that affect water deflection?
-    - ![image.png](../assets/image_1747346581107_0.jpg)
+    - ![image.png](images/image_1747346581107_0.jpg)
   - Rowing station
     - I have another section for Rowing
   - Many attachment points
@@ -27,49 +27,49 @@
       - Alternatively we could do something like a scuppered gunwale below the sides of the deck.
       - Also have attachment points on the fronts of the seat benches?
       - Swallow Yachts BayRaider 17 + 20 have grab handle bars at the seat fronts:
-        - ![image.png](../assets/image_1778397115258_0.jpg)
-        - ![image.png](../assets/image_1773706978420_0.jpg)
+        - ![image.png](images/image_1778397115258_0.jpg)
+        - ![image.png](images/image_1773706978420_0.jpg)
         - This provides both a track to install seats, sleeping platform supports, attachment points, and ways to lock down these things so they don't fly around in a capsize event. It allows for a nice radius on the front seat edge and still provide a lip to place things on for a level platform.
   - Sleep 2 people
     - In FB group JW posted this: There is plenty of space in which to do that. The seats need to be run back to the tiller bulkhead with the fronts parallel, and spreader or filler pieces dropped in across between them to make the "bunk space".
     - And this: Extend the side seats through to the tiller bulkhead, bring the seat top across from side to side under the tiller from B#7 aft, and make some more of the moveable rowing seat pieces and you have a bigger than queen sized flat on which to lay out your airbed under the tent. That leaves the cuddy as a sheltered galley and seating space.
     - Hermann Peerdeman in his cuddy-less Long Steps:
-      - ![image.png](../assets/image_1779028737119_0.jpg)
-      - ![image.png](../assets/image_1779028773759_0.jpg)
+      - ![image.png](images/image_1779028737119_0.jpg)
+      - ![image.png](images/image_1779028773759_0.jpg)
     - [JR Boatworks](https://jrcraftyard.ee/our-works/scamp-sailboat) built a sleeping platform for a scamp
-      - ![image.png](../assets/image_1756748220128_0.jpg)
+      - ![image.png](images/image_1756748220128_0.jpg)
     - My challenge will be how to support the sleeping platform between the side benches: They'd have to slide in from aft into the groove and then have the platform raised from the groove to be level with the seat tops. Or I could do what JW Boatworks above does: Instead of a groove it's just a lip that boards lay on top of, rather than inbetween. That adds the risk of losing things in case of a capsize. NOTE: See my idea under Many attachment points above.
   - Built-in cooler
     - Peter Bachelor added a built-in cooler box into his Core Sound 17
       - [Building our Core Sound 17 Mk3. Update 6. 31 August 2025 - YouTube](https://www.youtube.com/watch?v=JzonGvIAUjg) starting at 35:20
-      - ![image.png](../assets/image_1757170144500_0.jpg)
+      - ![image.png](images/image_1757170144500_0.jpg)
     - Or find a place where I can put our small camping cooler
   - Coamings
     - This SCAMP has added doublers to the coamings.
       - If I add snaps for tent installation, then thicker material may be beneficial
-      - ![image.png](../assets/image_1764033776340_0.jpg)
+      - ![image.png](images/image_1764033776340_0.jpg)
     - Lonnie Black's coamings being installed
-      - ![image.png](../assets/image_1775511511639_0.jpg)
+      - ![image.png](images/image_1775511511639_0.jpg)
     - Michael Vaughan did a nice job aligning the coamings with the cuddy sides for a smooth transition
       - https://www.facebook.com/share/p/14h1XXgTYyd/
-      - ![image.png](../assets/image_1783562656807_0.jpg)
-      - ![image.png](../assets/image_1783562702621_0.jpg)
-      - ![image.png](../assets/image_1783562724224_0.jpg)
-      - ![image.png](../assets/image_1783562748632_0.jpg)
+      - ![image.png](images/image_1783562656807_0.jpg)
+      - ![image.png](images/image_1783562702621_0.jpg)
+      - ![image.png](images/image_1783562724224_0.jpg)
+      - ![image.png](images/image_1783562748632_0.jpg)
     - Derek Desaunois has nice transitions
       - https://www.facebook.com/1664618510/videos/pcb.3121122628066599/1236201708424292
-      - ![SCR-2026-08-13_08-20-45-gwx4oxew.png](../assets/SCR-2026-08-13_08-20-45-gwx4oxew_1786634448127_0.jpg)
+      - ![SCR-2026-08-13_08-20-45-gwx4oxew.png](images/SCR-2026-08-13_08-20-45-gwx4oxew_1786634448127_0.jpg)
     - John Hippe's new pathfinder with cuddy has nice lines
-      - ![image.png](../assets/image_1784197934937_0.jpg)
+      - ![image.png](images/image_1784197934937_0.jpg)
     - Swallow Yachts BayCruiser 23 has tapered double wall coamings, solving the strange angle transition from cuddy side walls to coamings:
       - This would require bringing in the coamings inward towards the center line where they meet the cuddy. They they would be inside the cuddy sidewalls, making for a nicer finish (converging angles vs. diverging ones).
       - I could do what swallow yachts does and run a continuous line from the cuddy all the way to the aft deck.
       - Or I could end the cuddy sidewalls a foot or two past the cuddy and have just coamings to to end of cockpit.
-      - ![image.png](../assets/image_1780421617416_0.jpg)
+      - ![image.png](images/image_1780421617416_0.jpg)
     - Connecting batteries in cuddy with electric motor aft.
       - I could run 1/2, 3/4, or 1" PVC pipe from the forward storage all the way to the after storage, as conduit for wires. The PVC pipe would run behind the coamings where they are protected and invisible. They would open into the respective storage compartments.
   - Table
     - Should I add a table? BayCruiser 23 has one in the cockpit:
-      - ![image.png](../assets/image_1782505009855_0.jpg)
+      - ![image.png](images/image_1782505009855_0.jpg)
       - I could so something similar where the base mount for the post is in the footwell between B6-7 and mid post attaches to the grab rail at the upper seat front edge.
       - Or put a table that two people can sit across at.

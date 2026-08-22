@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Shrink assets/ for a git repo: resize to 1600px, re-encode photos as JPEG,
+"""Shrink the repo's image folders for git: resize to 1600px, re-encode photos as JPEG,
 leave screenshots/line art as PNG, then rewrite affected markdown links.
 
 Usage: scripts/optimize-assets.py [--dry-run]
@@ -16,7 +16,7 @@ QUAL  = 82        # jpeg quality
 PHOTO = 20000     # unique colours above which an image is treated as a photo
 
 root   = pathlib.Path(__file__).resolve().parent.parent
-adir   = root/'assets'
+DIRS   = [root/'research/images', root/'reference/images']
 RASTER = {'.png', '.jpg', '.jpeg', '.webp'}
 
 def sh(*a):
@@ -46,7 +46,8 @@ def convert(job):
         src.unlink()
     return src, dst, before, dst.stat().st_size if dst.exists() else before
 
-imgs = [p for p in adir.rglob('*') if p.is_file() and p.suffix.lower() in RASTER]
+imgs = [p for d in DIRS if d.is_dir()
+        for p in d.rglob('*') if p.is_file() and p.suffix.lower() in RASTER]
 with ThreadPoolExecutor(max_workers=8) as ex:
     jobs = list(ex.map(plan, imgs))
     results = list(ex.map(convert, jobs))
@@ -60,7 +61,7 @@ touched = 0
 if renames and not DRY:
     for md in root.rglob('*.md'):
         s = str(md)
-        if '.git/' in s or s.startswith(str(root/'_temp')) or '/assets/' in s: continue
+        if '.git/' in s or s.startswith(str(root/'_temp')) or '/images/' in s: continue
         txt = orig = md.read_text()
         for old, new in renames.items():
             if old in txt:
@@ -70,5 +71,5 @@ if renames and not DRY:
 
 print(f"{len(results)} images: {before/1e6:.0f} MB → {after/1e6:.0f} MB "
       f"({100*(1-after/before):.0f}% smaller)")
-print(f"re-encoded as jpeg: {len(renames)}   kept as png: {len(results)-len(renames)}")
+print(f"converted to jpeg: {len(renames)}   left in original format: {len(results)-len(renames)}")
 print(f"markdown files updated: {touched}" + ("  (dry run)" if DRY else ""))

@@ -156,13 +156,13 @@ Nobody budgets for these and they add up to real money. See [Costs](costs.md).
         - Import feeds, duty, tarrifs (thanks big D) ($104CAD)
         - **Total: $1484CAD**
       - I ordered them on Feb 11, 2026 and received them on Apr 14, 2026 (2 months later)
-        - ![image.png](../assets/image_1776380170165_0.png)
+        - ![image.png](images/image_1776380170165_0.png)
       - They also have good resources for fine tuning lug sails on their site
     - McBride and Leich in Victoria
     - Michael Storer has good videos with lots of details on how to rig a balance lug said (for the Oz Goose, but applies to any balance lug): [Part 1 Detailed step by step rigging for a lug sail on the OzGoose or other boat - YouTube](https://www.youtube.com/watch?v=93FjgWWKC1Y)
   - ### Sail hardware
     - Duckworks lists a hardware package (out of stock, see attached image):
-      - ![image.png](../assets/image_1742685418845_0.png)
+      - ![image.png](images/image_1742685418845_0.png)
   - ### Trailer
     - Requirements:
       - Storable in my boat shed (door width: 69.5")
@@ -178,11 +178,11 @@ Nobody budgets for these and they add up to real money. See [Costs](costs.md).
         | SUT-350-ST | 350 lbs, 22' | $2,363 USD | 18' 6" | 52" | Single Boat Carrier for Boats over 17', torsion suspension, 12" wheels, LED lights, weighs 155 lbs |
         | SUT-500-S | 500 lbs, | $2,008 USD | 15' 2" | 69" | Single Medium Duty Carrier, Spring Suspension, 8" wheels, weighs 180 lbs |
       - SUT-220-S
-        - ![image.png](../assets/image_1739228736487_0.jpg)
+        - ![image.png](images/image_1739228736487_0.jpg)
       - SUT-220-ST
-        - ![image.png](../assets/image_1739228932591_0.jpg)
+        - ![image.png](images/image_1739228932591_0.jpg)
       - SUT-350-ST
-        - ![image.png](../assets/image_1739228623847_0.jpg)
+        - ![image.png](images/image_1739228623847_0.jpg)
     - Marlon
       - Alberni Power & Marine has a 1250 for $1,899 CAD
         - [1250 Boat Trailer with Bunks For Sale | Alberni Power & Marine - RPM Group](https://www.albernipowermarine.com/product/trailers/marlon-trailers/1250-boat-trailer-with-bunks)

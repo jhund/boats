@@ -20,12 +20,12 @@
       - [Making a running line for anchoring a boat - YouTube](https://www.youtube.com/watch?v=63ShKwldmUg) (sinking line, away from other boats' props)
       - There is also one with a floating line
     - Mark Baker's setup
-      - ![image.png](../assets/image_1757076720417_0.jpg)
+      - ![image.png](images/image_1757076720417_0.jpg)
   - Anchor locker
     - Phil McG has an anchor locker in the port side bench
-      - ![image.png](../assets/image_1753568385083_0.jpg){:height 449, :width 505}
+      - ![image.png](images/image_1753568385083_0.jpg){:height 449, :width 505}
     - Ian Devenney has an anchor locker in the cockpit aft
-      - ![image.png](../assets/image_1753640442661_0.jpg)
+      - ![image.png](images/image_1753640442661_0.jpg)
     - I will put mine at the aft of the cockpit, stbd side.
       - Idea: Drain it into cockpit, but put a removable barrier or strainer in their to prevent muck and sand from flowing into the cockpit. Make it removable so that when I clean the boat, I can easily pick it up and get it out of the locker/cockpit. Alternatively, I could just put old towels into the bottom of the anchor locker. They should let the water go through but hold back any muck or sand until the towels are removed and cleaned. They would also protect the bottom of the locker from scratching.
   - Mark Barker asked about anchor handling in this FB discussion: https://www.facebook.com/share/p/19DsNme1oU/

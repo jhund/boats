@@ -112,14 +112,14 @@
               > Western Red Cedar is brash/brittle. It's also soft, doesn't hold fasteners well, and isn't very strong. It's also rather soft.
       - Solid sections in the mast
         - Avoid abrupt changes in strength. Cut a vee:
-          - ![image.png](../assets/image_1772304163608_0.jpg)
+          - ![image.png](images/image_1772304163608_0.jpg)
       - Rounding the mast
         - Plane to go from 8 -> 16 -> 32 -> round
         - Mark from Nomad Boatbuilding: 7-10-7 rule
         - Sanding jig from PVC pipe with handle
-          - ![image.png](../assets/image_1772303382185_0.jpg)
+          - ![image.png](images/image_1772303382185_0.jpg)
       - This person suggests to lay the staves flat when cutting the vee groove:
-        - ![image.png](../assets/image_1772302702982_0.jpg)
+        - ![image.png](images/image_1772302702982_0.jpg)
       - Birds mouth Resources
         - This FB group post has good info about birdsmouth mast: https://www.facebook.com/share/p/161PDZN6ki/
         - Here is a birdsmouth mast post on FB: https://www.facebook.com/groups/JWDesigns/posts/2473405849504950/
@@ -163,7 +163,7 @@
           - At Tier 3 confidence: leaving the spars bare with graphite epoxy only at the joints will work structurally for a garage-stored, dry-sailed dinghy, but the wood will gray and develop surface checking within a couple of seasons of PNW use. Whether that matters depends on your aesthetic tolerance and how concerned you feel about the checking-accelerates-moisture-ingress cycle.
           - A middle path worth considering: graphite epoxy at the joints, plus a simple penetrating oil treatment on the bare wood. No film to maintain, no build-up, just wipe on a fresh coat of thinned BLO when you feel like it. This provides enough water repellency to slow graying and checking while requiring essentially zero prep work for recoating — ever.
     - Aluminum
-      - ![image.png](../assets/image_1771953075208_0.jpg)
+      - ![image.png](images/image_1771953075208_0.jpg)
       - JW recommends .065" (1.65mm) 16 gauge wall thickness on a 2.75" diameter for Houdini and SCAMP and Walkabout (See my plans) masts:
         - I've shown alloy tube spars for simplicity, and have specified tube supplied by www.onlinemetals.com whom I understand will cut to length and ship to anywhere in the USA.
         - In this case the sections will fit one inside the other for shipment, the mast being fattest and longest protects the smaller and more vulnerable boom and yard sections.
@@ -184,7 +184,7 @@
           - [Substituting aluminium spars on the Oz Goose sail boat - Oz Goose Sailboat - Cheap Simple Plywood Boat](https://www.opengoose.com/building-a-goose/materials/substituting-aluminium-spars-on-the-oz-goose-sail-boat/)
         - Michael Storer has an interesting recommendation:
           - For me I would be tempted to use the 0.065 and add a internal sleeve in the bottom 1.8m (including the diagonal cut at the top) of the same tubing.
-          - ![image.png](../assets/image_1764622808297_0.jpg){:height 992, :width 403}
+          - ![image.png](images/image_1764622808297_0.jpg){:height 992, :width 403}
       - Rick Thompson shows [photos of his mast here](https://forum.woodenboat.com/forum/building-repair/9145504-standing-lug-and-leeboard-for-a-welsford-walkabout?p=9186994#post9186994)
         - He inserted corks to provide buoyancy, and he used rivnuts to attach fittings
       - I think I'll go with 3" diameter.
@@ -203,7 +203,7 @@
       - I tried some computations, however, the results were inconclusive
         - From here: https://www.calcresource.com/statics-cantilever-beam.html
         - With these settings:
-          - ![image.png](../assets/image_1764620736918_0.png)
+          - ![image.png](images/image_1764620736918_0.png)
           -
       - I did some [calculations for mast weights](https://www.onlinemetals.com/en/weight-calculator)
         - 197" length
@@ -242,10 +242,10 @@
       - I kind of like it, but I'm not sure how well the pipe will hold up to UV degradation. What about a metal (aluminum) tube? Could that be epoxied to wood?
       - I did some research and it turns out that PVC pipe is quite UV resistent. Can also be painted with latex paint for additional protection
       - Jeff did this to make epoxy bond to PVC: sanding to 80 grit, alcohol wiping, and flame treating
-      - ![image.png](../assets/image_1772294813946_0.jpg)
-      - ![image.png](../assets/image_1772294834861_0.jpg)
+      - ![image.png](images/image_1772294813946_0.jpg)
+      - ![image.png](images/image_1772294834861_0.jpg)
       - Lonnie Black did the same:
-        - ![image.png](../assets/image_1774731783359_0.jpg)
+        - ![image.png](images/image_1774731783359_0.jpg)
     - Run the mizzen sheet through the boomkin into the cockpit like this Caledonia Yawl from Nordic Craft
-      - ![image.png](../assets/image_1772293522348_0.jpg)
-      - ![image.png](../assets/image_1772293593671_0.jpg)
+      - ![image.png](images/image_1772293522348_0.jpg)
+      - ![image.png](images/image_1772293593671_0.jpg)

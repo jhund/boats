@@ -21,7 +21,7 @@
     - Glue two halves together
     - Fiberglass and epoxy
       - Jeff from Sailing moga clamps it for fiberglassing:
-        - ![image.png](../assets/image_1772294098934_0.jpg)
+        - ![image.png](images/image_1772294098934_0.jpg)
   - The lead weight in the centerboard:
     - At least enough to overcome lift of board so that it stays down (and doesn't float up)
     - The more I add, the stronger the righting moment of the boat will be. But also, the harder it will be to raise it.
@@ -36,9 +36,9 @@
       - Sourcing lead
         - Canadian Tire sells fishing weights
           - 15lbs for $60
-          - ![image.png](../assets/image_1772810000431_0.jpg){:height 421, :width 347}
+          - ![image.png](images/image_1772810000431_0.jpg){:height 421, :width 347}
         - Can I buy used diving weights?
-          - ![image.png](../assets/image_1772810030946_0.jpg){:height 201, :width 333}
+          - ![image.png](images/image_1772810030946_0.jpg){:height 201, :width 333}
   - Good resources
     - [Design and Construction Of Centerboards and Rudders](http://boat-links.com/foils.html) - Article written by an EE. Very understandable and good concepts
       -
@@ -116,14 +116,14 @@
         - [seastate/CQFoil: A utility for creating 3D-printable templates for shaping rudders, daggerboards and other sailboat foils](https://github.com/seastate/CQFoil)
   - Centerboard pin
     - Jeff D has good photos [on his build blog](https://forum.woodenboat.com/forum/building-repair/9018924-building-a-welsford-long-steps/page8):
-      - ![image.png](../assets/image_1780419786385_0.jpg)
+      - ![image.png](images/image_1780419786385_0.jpg)
     - Phil McCowin uses this approach, not exactly sure how it works, [commended by Howard Rice](https://www.facebook.com/photo/?fbid=10226845670784937&set=a.10226845731506455)
-      - ![image.png](../assets/image_1757899572382_0.jpg)
+      - ![image.png](images/image_1757899572382_0.jpg)
     - [Interesting discussion in the FB group](https://www.facebook.com/share/p/1CZUAF3Hap/).
       - Consensus seems to be to overdrill the holes, use a SS 1" pin, maybe HDPE bushings. SS end place (or HDPE) to prevent pin from axial movement. Try to absorb later CB force not as torque on pin, but as forces on axle washers and bottom edge of case opening
       - From https://www.facebook.com/media/set/?set=a.2263337930393674&type=3
-      - ![image.png](../assets/image_1763570131233_0.jpg){:height 615, :width 429}
-      - ![image.png](../assets/image_1763571099203_0.jpg){:height 304, :width 440}
+      - ![image.png](images/image_1763570131233_0.jpg){:height 615, :width 429}
+      - ![image.png](images/image_1763571099203_0.jpg){:height 304, :width 440}
   - Centerboard casing inside coating: Use West System's graphite powder
   - Seems like a good foil shape is very important for performance
   - Bushing

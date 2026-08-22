@@ -4,8 +4,8 @@
 
   - My idea
     - NOTE to consider: The tent is pretty low when sitting on the benches. Should I raise it up from the cuddy by a foot? That would allow me to sit comfortably on the benches in the tent. I'll have to test this when I can sit on the benches, compare to cuddy roof and see how much room there is
-      - ![image.png](../assets/image_1778347991251_0.jpg)
-    - ![image.png](../assets/image_1771950177963_0.png)
+      - ![image.png](images/image_1778347991251_0.jpg)
+    - ![image.png](images/image_1771950177963_0.png)
     - Support structure (red)
       - Fwd
         - Cuddy top and sides at B#4
@@ -67,40 +67,40 @@
     - He uses snaps. Color coded for easy setup (black and silver)
     - He uses Weathermax fabric
     - He makes and sells SCAMP tents
-    - ![image.png](../assets/image_1778900067624_0.jpg)
-    - ![image.png](../assets/image_1778900110398_0.jpg)
+    - ![image.png](images/image_1778900067624_0.jpg)
+    - ![image.png](images/image_1778900110398_0.jpg)
     -
   - [Brent Butikofer](https://www.facebook.com/groups/1494787034623653/user/100004295442439/) builds an interesting tent for his SCAMP
-    - ![image.png](../assets/image_1778898795515_0.jpg)
-    - ![image.png](../assets/image_1778898830320_0.jpg)
+    - ![image.png](images/image_1778898795515_0.jpg)
+    - ![image.png](images/image_1778898830320_0.jpg)
     -
   - [JR Craftyard](https://jrcraftyard.ee/our-works/scamp-sailboat) did this:
     - See their image gallery for a rear view. They use twist locks instead of snaps
-    - ![image.png](../assets/image_1756748083977_0.jpg)
-    - ![image.png](../assets/image_1756748612647_0.jpg)
-    - ![image.png](../assets/image_1771784051098_0.jpg)
+    - ![image.png](images/image_1756748083977_0.jpg)
+    - ![image.png](images/image_1756748612647_0.jpg)
+    - ![image.png](images/image_1771784051098_0.jpg)
   - Rick Thompson uses separate components to provide a very flexible tent setup:
-    - ![image.png](../assets/image_1757596350310_0.jpg)
+    - ![image.png](images/image_1757596350310_0.jpg)
     - Two side panels and one top panel make up the full tent, all from WeatherMax fabric. There are no zippers and no plastic windows, attachment is all by snaps. It is configurable for the various conditions I usually encounter.
     - With the dodger and aft section up there is some wind and sun protection, good for a quick lunch stop: [https://flic.kr/p/2rsq2yz](https://flic.kr/p/2rsq2yz)
-      - ![image.png](../assets/image_1771779814609_0.jpg)
+      - ![image.png](images/image_1771779814609_0.jpg)
     - The side panels add more wind blocking but leave a view of the stars: [https://flic.kr/p/2rsrKDP](https://flic.kr/p/2rsrKDP)
-      - ![image.png](../assets/image_1771779866461_0.jpg)
+      - ![image.png](images/image_1771779866461_0.jpg)
     - Just the top keeps dew off me for cool mornings: [https://flic.kr/p/2rskEbD](https://flic.kr/p/2rskEbD)
-      - ![image.png](../assets/image_1771779897769_0.jpg)
+      - ![image.png](images/image_1771779897769_0.jpg)
     - Top and sides with a vent opening for cold nights: [https://flic.kr/p/2rsq3Pa](https://flic.kr/p/2rsq3Pa)
-      - ![image.png](../assets/image_1771779926063_0.jpg)
+      - ![image.png](images/image_1771779926063_0.jpg)
     - Full overlap of top on all sides for rain: [https://flic.kr/p/2rsrhqQ](https://flic.kr/p/2rsrhqQ)
-      - ![image.png](../assets/image_1771779958201_0.jpg)
+      - ![image.png](images/image_1771779958201_0.jpg)
   - Gig Harbor Sells one for the SCAMP
     - [Scamp Convertible Camping Cover - Setup Demo - YouTube](https://www.youtube.com/watch?v=Fob7TNTA3PQ)
     - Can be set up as Bimini or fully enclosed tent
-    - ![image.png](../assets/image_1772297704127_0.jpg)
+    - ![image.png](images/image_1772297704127_0.jpg)
   - Swallow Yachts Bayraider expedition
     - [Ep. 55 - Dorothy’s NEW Swallow Yachts BayRaider Expedition - YouTube](https://www.youtube.com/watch?v=O2m1Bm5FIqA)
-    - ![image.png](../assets/image_1773694698042_0.jpg)
-    - ![image.png](../assets/image_1773704662767_0.jpg)
-    - ![image.png](../assets/image_1773704720428_0.jpg)
+    - ![image.png](images/image_1773694698042_0.jpg)
+    - ![image.png](images/image_1773704662767_0.jpg)
+    - ![image.png](images/image_1773704720428_0.jpg)
   - Exploring tent options
     - The forward end will likely be supported by the cuddy sides and roof
     - Going backwards, a ridge line could be

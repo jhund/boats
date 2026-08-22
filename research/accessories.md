@@ -28,7 +28,7 @@
       - RasPi with Bare Boat Necessities OS, 10" touch screen, GPS dongle. Less than $200
   - Padook: Combination paddle and boat hook for maneuvering around the dock
     - [Padook - Small Boats Magazine](https://smallboatsmonthly.com/article/padook/)
-      - ![image.png](../assets/image_1745781193791_0.jpg)
+      - ![image.png](images/image_1745781193791_0.jpg)
     - Modify a standup paddle board paddle:
       - They come in two pieces for easy storage.
       - They are adjustable so they cover a wide range of lengths
@@ -36,7 +36,7 @@
   - PooTube
     - 2' x 5" PVC pipe sealed one end and screw lid on the other. Labelled "PooTube". Optional carry strap.
     - You do your business on the bucket with a liner. You tie up the liner and store it in the PooTube until you can empty it.
-    - ![image.png](../assets/image_1776522865939_0.jpg)
+    - ![image.png](images/image_1776522865939_0.jpg)
   - Radio
     - I should get a VHF radio.
     - The facebook group has a nice comparison sheet (from 2019, so somewhat old): [John Welsford Small Craft Design | Facebook](https://www.facebook.com/groups/JWDesigns/permalink/1015832788595604)

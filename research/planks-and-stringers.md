@@ -6,22 +6,22 @@
     - Cedar or Fir. Cedar is a lot lighter, and probably easier to bend, too. May need special treatment before epoxying though...
     - I am looking at 1x3" Douglas Fir from Windsor plywood, ripping it down the middle for two stringers from each piece I buy. That worked out quite well.
     - Mark from Nomad boatbuilding has a nice scarf jig for the table saw. I copied his approach and it worked quite well.
-      - ![image.png](../assets/image_1763856110120_0.jpg)
+      - ![image.png](images/image_1763856110120_0.jpg)
       - Brian Schulz from Cape Falcon Kayaks has a slightly different approach
-        - ![image.png](../assets/image_1763856177160_0.jpg)
+        - ![image.png](images/image_1763856177160_0.jpg)
   - Holding stringers in place while gluing
     - This is a clever clamping system: plywood U-profiles and surgical tubing (or old bike inner tubes) as bungee cords
-      - ![image.png](../assets/image_1763570339048_0.jpg){:height 512, :width 425}
-      - ![image.png](../assets/image_1763570493003_0.jpg){:height 294, :width 427}
+      - ![image.png](images/image_1763570339048_0.jpg){:height 512, :width 425}
+      - ![image.png](images/image_1763570493003_0.jpg){:height 294, :width 427}
     - Planking clamps: Cut from plywood with softwood wedges, stored in buckets
-      - ![image.png](../assets/image_1767285188125_0.jpg){:height 487, :width 328}
-      - ![image.png](../assets/image_1767285234030_0.jpg){:height 254, :width 349}
+      - ![image.png](images/image_1767285188125_0.jpg){:height 487, :width 328}
+      - ![image.png](images/image_1767285234030_0.jpg){:height 254, :width 349}
   - Make sure the stringers are a bit proud of the bulkheads to ensure fair curves, not interrupted by protruding bulkhead edges.
   - How to finish the stem:
-    - ![image.png](../assets/image_1763570765802_0.jpg){:height 467, :width 431}
-    - ![image.png](../assets/image_1763570863293_0.jpg)
+    - ![image.png](images/image_1763570765802_0.jpg){:height 467, :width 431}
+    - ![image.png](images/image_1763570863293_0.jpg)
   - Attaching stringers to bow, and shaping bow from wide to narrow. Photo is from a navigator
-    - ![image.png](../assets/image_1769273411795_0.jpg){:height 619, :width 471}
+    - ![image.png](images/image_1769273411795_0.jpg){:height 619, :width 471}
   - My own stringer installation:
     - Stringer #1, port side 2026/01/31
       - Prep, several days before the installation:
@@ -70,7 +70,7 @@
         - Remove the clamps.
   - Planking
     - Herman Peerdeman has a good approach to planking using wooden blocks and clamps. I could improve on this by adding wooden blocks to the outside, too to distribute the pressure:
-      - ![image.png](../assets/image_1779029161700_0.jpg)
+      - ![image.png](images/image_1779029161700_0.jpg)
     - Fiberglassing lapstrake planks
       - [Fibreglassing a Lapstrake Boat](https://www.youtube.com/watch?v=6s6QnlSBEv8&t=10s)
         - Use glass strips/tape

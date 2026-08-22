@@ -41,7 +41,7 @@ Read this once, properly. Epoxy sensitisation is cumulative and permanent.
     - Good youtube channel with epoxy tips: https://www.youtube.com/@WessexResinsAndAdhesives/featured
     - Use a grout removal nib on the Fein tool for removing hardened epoxy (steel tongue with industrial diamonds for abrasives)
     - Jeffrey Bursic uses a rotary grinding attachment to smooth out expoxy fillets
-      - ![image.png](../assets/image_1755574959170_0.jpg)
+      - ![image.png](images/image_1755574959170_0.jpg)
     - Derek Desaunois coats and sands every piece before it goes into the boat:
       -
         > I’ve resin coated and either peel-plied or sanded back every part (including the stringers) before they go in. Tedious work, but it should save me a lot of work down the line.
