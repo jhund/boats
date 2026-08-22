@@ -24,7 +24,11 @@ Every option uses the same real photos from entry
 The baseline. Fills the content column (~900px), clickable, works in every renderer.
 
 ![Doublers cut from 9mm ply](images/012-prepare-and-install-doublers/doublers-01-cut.jpg)
-*Doublers cut out and labelled before any epoxy work.*
+*Doublers cut out and labelled before any epoxy work. (no empty line)*
+
+![Doublers cut from 9mm ply](images/012-prepare-and-install-doublers/doublers-01-cut.jpg)
+*Doublers cut out and labelled before any epoxy work. (empty line)*
+
 
 > Note the blank line before the caption. Without it, the caption joins the image's paragraph and
 > flows onto the same line — fine for a full-width image, wrong for a narrow one. See option B.
