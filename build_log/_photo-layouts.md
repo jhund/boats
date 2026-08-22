@@ -175,7 +175,6 @@ minutes in a warm shop, and that is not the moment to find you're one clamp shor
 <tr>
 <td>
 
-
 ### A list for steps without a photo
 
 - item 1
@@ -198,6 +197,10 @@ minutes in a warm shop, and that is not the moment to find you're one clamp shor
 
 
 </table>
+
+Testing a skinny image with raw markdown
+
+![image caption](images/001-my-prior-boatbuilding-experience/canoes-2-skeleton.jpg)
 
 ---
 
