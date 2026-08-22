@@ -1,8 +1,13 @@
 # Photo layout options
 
-Scratch page for choosing how to present photos. Every option uses the same real photos from entry
-[012](012-prepare-and-install-doublers.md), so the comparison is fair. Pick the ones you want,
-then delete this file and record the choice in [CONVENTIONS.md](../CONVENTIONS.md).
+> **Decided: option A, plain markdown.** Tested on desktop and mobile. Plain markdown is the only
+> form that previews in a local editor, it avoids GitHub's table borders and zebra striping, it is
+> the least markup to maintain, and tall portrait photos scale down cleanly on mobile. The rule now
+> lives in [CONVENTIONS.md](../CONVENTIONS.md#photos). The rest of this page is kept as a record of
+> what was tried and what GitHub does and doesn't support.
+
+Every option uses the same real photos from entry
+[012](012-prepare-and-install-doublers.md), so the comparison is fair.
 
 **Two facts that shape everything below**, both confirmed against GitHub's rendering API:
 
@@ -19,11 +24,15 @@ then delete this file and record the choice in [CONVENTIONS.md](../CONVENTIONS.m
 The baseline. Fills the content column (~900px), clickable, works in every renderer.
 
 ![Doublers cut from 9mm ply](images/012-prepare-and-install-doublers/doublers-01-cut.jpg)
-
 *Doublers cut out and labelled before any epoxy work.*
 
 > Note the blank line before the caption. Without it, the caption joins the image's paragraph and
 > flows onto the same line — fine for a full-width image, wrong for a narrow one. See option B.
+
+Testing a skinny image with raw markdown
+
+![image al text](images/001-my-prior-boatbuilding-experience/canoes-2-skeleton.jpg)
+*image caption*
 
 ---
 
@@ -197,10 +206,6 @@ minutes in a warm shop, and that is not the moment to find you're one clamp shor
 
 
 </table>
-
-Testing a skinny image with raw markdown
-
-![image caption](images/001-my-prior-boatbuilding-experience/canoes-2-skeleton.jpg)
 
 ---
 
