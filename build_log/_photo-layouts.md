@@ -151,6 +151,56 @@ one click away. This is the answer for entries like 010 with 50+ photos.
 
 ---
 
+## I — Text beside photo
+
+In table to limit width, but markdown image format
+
+<table>
+<tr>
+<td width="50%">
+
+![Doublers cut from 9mm ply](images/012-prepare-and-install-doublers/doublers-01-cut.jpg)
+
+</td>
+<td width="50%">
+
+Glue one doubler at a time. Mix the epoxy to a mayonnaise consistency with silica — thin enough to
+wet the ply, thick enough that it won't run out of the joint while you fuss with clamps.
+
+Dry-fit and mark the clamp positions **first**. Once there's epoxy on the part you have maybe ten
+minutes in a warm shop, and that is not the moment to find you're one clamp short.
+
+</td>
+</tr>
+<tr>
+<td>
+
+
+### A list for steps without a photo
+
+- item 1
+- item 2
+- item 3
+
+Some more text
+
+</td>
+<td width="50%">
+
+Glue one doubler at a time. Mix the epoxy to a mayonnaise consistency with silica — thin enough to
+wet the ply, thick enough that it won't run out of the joint while you fuss with clamps.
+
+Dry-fit and mark the clamp positions **first**. Once there's epoxy on the part you have maybe ten
+minutes in a warm shop, and that is not the moment to find you're one clamp short.
+
+</td>
+</tr>
+
+
+</table>
+
+---
+
 ## What does not work
 
 Confirmed by posting each form to GitHub's markdown API and reading the HTML it returns. The three
