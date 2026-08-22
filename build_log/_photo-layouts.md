@@ -37,7 +37,6 @@ The baseline. Fills the content column (~900px), clickable, works in every rende
 Testing a skinny image with raw markdown
 
 ![image al text](images/001-my-prior-boatbuilding-experience/canoes-2-skeleton.jpg)
-
 *image caption Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
