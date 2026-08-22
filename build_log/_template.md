@@ -14,27 +14,25 @@ One or two sentences: what this session was supposed to achieve.
 
 ## What I did
 
-Numbered steps, in the order I actually did them. Enough detail that someone could repeat it.
+One heading per step, in the order I actually did them. Enough detail that someone could
+repeat it.
 
-1. Step one.
-2. Step two.
+### 1. Step one
 
-   <!-- ![Caption describing what the photo shows](images/NNN-short-slug/01-something.jpg) -->
+### 2. Step two
 
-3. Step three.
+<!-- Photo: plain markdown, caption on the very next line with no blank line between.
+![What the photo shows](images/NNN-short-slug/group-01-what-it-shows.jpg)
+*Caption. What to look at, and why it matters. No blank line between photo and caption!* -->
 
-## Notes & gotchas
+### 3. Step three
 
-- Things the plans don't tell you.
-- Measurements that mattered more than expected.
+## Notes
 
-## What I'd do differently
-
-- The honest part. Also add anything real to [Mistakes](../reference/mistakes.md).
-
-## Next
-
-What this unblocks, and what's next.
+- Things the plans don't tell you, or errors in the plans. Also add to [Plans errata](../reference/plans-errata.md).
+- Deviations from the plans. Also add to [Plan modifications](../reference/plan-modifications.md).
+- Gotchas and things I'd do differently next time. Also add to [Mistakes](../reference/mistakes.md).
+- Research and reasoning behind the choices made here.
 
 ---
 

@@ -11,6 +11,11 @@ no Pages, no wiki.
 ```
 README.md              Entry point: the boat, phase table, links to everything
 CONVENTIONS.md         This file
+CONTRIBUTING.md        How third parties can submit corrections and additions
+LICENSE                CC BY-NC-SA 4.0, full text
+.github/
+  PULL_REQUEST_TEMPLATE.md
+  ISSUE_TEMPLATE/      Errata, correction and tip forms
 build_log/
   README.md            Chronological index of every entry, grouped by phase
   _template.md         Copy this for a new entry
@@ -22,6 +27,7 @@ reference/
   tools.md
   bill-of-materials.md Includes Amazon affiliate links
   plan-modifications.md
+  plans-errata.md
   techniques.md
   glossary.md
   costs.md
@@ -35,7 +41,7 @@ images/                Repo-level images only (hero shot, plan overview)
 scripts/
   new-entry.sh         Scaffolds a new entry + its image folder
   extract-research.py  Splits pasted Logseq outline sections into topic pages
-  optimize-assets.py   Resizes/re-encodes the images/ folders for a sane repo size
+  optimize-images.py   Resizes/re-encodes the images/ folders for a sane repo size
 ```
 
 ## Entry files
@@ -67,18 +73,39 @@ That creates `build_log/NNN-fitting-the-bulkheads.md` from the template and
 
 ## Photos
 
-- Live in `build_log/images/<entry-slug>/`, referenced relatively: `![Caption](images/<entry-slug>/01-thing.jpg)`.
+- Live in `build_log/images/<entry-slug>/`, referenced relatively.
+- **Plain markdown only — no `<img>` tags, no table layouts.** Chosen deliberately: only plain
+  markdown previews in a local editor, and it avoids the borders and zebra striping GitHub puts
+  on multi-row tables. GitHub already wraps every image in a link to the full-size original, and
+  scales it down on narrow screens, so the HTML forms buy nothing.
+
+  ```markdown
+  ![Alt text describing the photo](images/<entry-slug>/group-01-what-it-shows.jpg)
+  *Caption. What to look at, and why it matters.*
+  ```
+
+  **No blank line between the image and its caption** — that keeps them in one paragraph, so the
+  caption sits tight underneath. A blank line adds a paragraph gap and the caption starts reading
+  as body text. Do leave a blank line after the caption, before the next prose.
+- Don't set a display width. There is no markdown syntax for it, `style` and `class` are stripped,
+  and `{width=480}`-style attributes render as literal text.
 - Named `group-NN-what-it-shows.jpg`, numbered in the order they appear in the entry.
 - Always `.jpg`, never `.jpeg`. One extension, so links stay predictable. No spaces or
   parentheses in filenames: markdown links break on both.
-- **Resize before committing.** Longest edge ~1600px, JPEG quality ~80, under ~500KB. Git keeps
-  every version of every binary forever; full-size camera files will make this repo unclonable.
+- **Optimize before committing.** Drop new photos into the right `images/` folder, then run:
   ```sh
-  # macOS, in place on a copy
-  sips -Z 1600 *.jpg
-  # or with ImageMagick
-  magick mogrify -resize 1600x1600\> -quality 80 *.jpg
+  scripts/optimize-images.py --dry-run   # report what would change
+  scripts/optimize-images.py             # do it
   ```
+  It resizes to 1600px on the longest edge, re-encodes at JPEG quality 82, strips metadata, and
+  sweeps all three image folders (`build_log/images`, `research/images`, `reference/images`).
+  Photographic PNGs become `.jpg` and any markdown links to them are rewritten; low-colour images
+  stay PNG so diagrams and screenshots keep crisp edges. PDFs, SVGs and video are never touched.
+  It is safe to re-run — already-optimized files are left alone.
+
+  This matters because git keeps every version of every binary forever. One unoptimized batch of
+  camera files is permanent repo weight. For scale: the first import was 855MB and came out at
+  79MB, visually indistinguishable at the sizes GitHub displays.
 - Raw camera files are gitignored. Keep originals outside the repo, or in `originals/`.
 - Always write a real caption. GitHub shows alt text as the caption when the image fails to load,
   and it's what makes the log followable.
@@ -105,6 +132,8 @@ That creates `build_log/NNN-fitting-the-bulkheads.md` from the template and
 
 - Sentence case for every heading, page title and link label — capitalise only the first word
   and proper nouns (Long Steps, Welsford, CNC).
+- End every bullet with a full stop, even a short fragment. Mixed punctuation across a list
+  looks like an oversight; consistent punctuation reads as deliberate.
 - Second person for instructions, first person for what happened.
 - Real numbers: measurements, hours, litres of epoxy, dollars.
 - Write down the mistake. It's the most useful thing in the log.

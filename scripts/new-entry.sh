@@ -1,6 +1,6 @@
 #!/bin/sh
 # Scaffold a new build log entry and its image folder.
-# Usage: tools/new-entry.sh "fitting the bulkheads"
+# Usage: scripts/new-entry.sh "fitting the bulkheads"
 set -eu
 
 if [ $# -lt 1 ]; then
@@ -13,7 +13,9 @@ title=$*
 slug=$(printf '%s' "$title" | tr '[:upper:]' '[:lower:]' | tr -cs '[:alnum:]' '-' | sed 's/^-//;s/-$//')
 
 last=$(ls "$root/build_log" | sed -n 's/^\([0-9][0-9][0-9]\)-.*\.md$/\1/p' | sort -n | tail -1)
-next=$(printf '%03d' $(( ${last:-0} + 1 )))
+# 10# forces base 10: under /bin/sh a bare 017 is octal (=15) and 008/009 are a fatal
+# "value too great for base" error.
+next=$(printf '%03d' $(( 10#${last:-0} + 1 )))
 
 entry="$root/build_log/$next-$slug.md"
 imgdir="$root/build_log/images/$next-$slug"

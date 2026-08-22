@@ -1,0 +1,37 @@
+name: Correction
+description: Something in the log is wrong, unclear, or broken.
+title: "fix: "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Factual corrections matter most — someone may act on what's written here. Typos and broken
+        links are welcome too.
+  - type: input
+    id: page
+    attributes:
+      label: Which page
+      placeholder: 'reference/techniques.md, "Working with epoxy"'
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: What it should say, and how you know
+      description: Experience, a measurement, a datasheet, a source.
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Could someone ruin a part by following it as written?
+      options:
+        - "Yes — this could cause a real failure"
+        - "No — it's a typo, a broken link, or unclear wording"
+    validations:
+      required: true

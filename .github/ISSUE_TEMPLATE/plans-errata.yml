@@ -1,0 +1,58 @@
+name: Plans errata
+description: Report an error, contradiction or ambiguity in the Long Steps plans as drawn.
+title: "errata: "
+labels: ["plans-errata"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you — this is the single most useful thing you can contribute. It goes on the
+        [Plans errata](https://github.com/jhund/boats/blob/main/reference/plans-errata.md) page and saves the next builder
+        real time and material.
+
+        Quoting specific dimensions here is fine and necessary. Please don't attach plan sheets,
+        CAD files or DXFs.
+  - type: input
+    id: sheet
+    attributes:
+      label: Sheet and item
+      description: As printed on the plans.
+      placeholder: 'Sheet 3, Bulkhead #2, item 10 (doubler)'
+    validations:
+      required: true
+  - type: textarea
+    id: drawn
+    attributes:
+      label: What the plans show
+      placeholder: 'Item 10 gives the B-2 doubler as 118mm wide on the aft face.'
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Why it doesn't work
+      description: What conflicts, or what wouldn't fit.
+      placeholder: |
+        Sheet 8 shows the main mast box inside width as 106mm, sides 9mm.
+        106 + 9 + 9 = 124, which doesn't match the 118 given for the doubler.
+    validations:
+      required: true
+  - type: textarea
+    id: resolution
+    attributes:
+      label: What you did instead
+      description: What you settled on, and how it worked out. Say if you're unsure.
+      placeholder: 'Made it 124mm. Fitted fine. Could also be that the box sides should be 6mm.'
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Yourself, another builder, or the designer. Credited unless you'd rather not be.
+      placeholder: 'Measured on my own build'
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Licensing
+      options:
+        - label: This is my own work and may be published under CC BY-NC-SA 4.0.
+          required: true

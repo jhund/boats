@@ -1,0 +1,37 @@
+name: Technique, tip or supplier
+description: Something you worked out the hard way, a term worth defining, or where to buy something.
+title: "tip: "
+labels: ["tip"]
+body:
+  - type: dropdown
+    id: destination
+    attributes:
+      label: Where it belongs
+      options:
+        - "Techniques & tips"
+        - "Glossary term"
+        - "Bill of materials / supplier"
+        - "Tools"
+        - "Not sure"
+    validations:
+      required: true
+  - type: textarea
+    id: tip
+    attributes:
+      label: The tip
+      description: What you do, and why it beats the obvious approach.
+    validations:
+      required: true
+  - type: input
+    id: boat
+    attributes:
+      label: What did you learn this on?
+      description: Optional. Helps me judge how it transfers to a Long Steps.
+      placeholder: 'My own Walkabout build'
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Licensing
+      options:
+        - label: This is my own work and may be published under CC BY-NC-SA 4.0.
+          required: true

@@ -2,7 +2,7 @@
 """Shrink the repo's image folders for git: resize to 1600px, re-encode photos as JPEG,
 leave screenshots/line art as PNG, then rewrite affected markdown links.
 
-Usage: scripts/optimize-assets.py [--dry-run]
+Usage: scripts/optimize-images.py [--dry-run]
 
 Photos (many unique colours) become .jpg; images with few colours stay .png so
 diagrams and UI screenshots keep crisp edges. PDFs and SVGs are never touched.
