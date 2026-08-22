@@ -27,6 +27,7 @@ The baseline. Fills the content column (~900px), clickable, works in every rende
 *Doublers cut out and labelled before any epoxy work. (no empty line)*
 
 ![Doublers cut from 9mm ply](images/012-prepare-and-install-doublers/doublers-01-cut.jpg)
+
 *Doublers cut out and labelled before any epoxy work. (empty line)*
 
 
@@ -37,7 +38,12 @@ Testing a skinny image with raw markdown
 
 ![image al text](images/001-my-prior-boatbuilding-experience/canoes-2-skeleton.jpg)
 
-*image caption*
+*image caption Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
 
 ---
 
