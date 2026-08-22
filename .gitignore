@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+
+# Editor cruft
+*.swp
+.idea/
+.vscode/
+
+# Photo originals — keep full-size camera files out of the repo.
+# Resize into build_log/images/<entry>/ instead.
+originals/
+*.CR2
+*.NEF
+*.ARW
+*.HEIC
+
+# Scratch space — Logseq pastes, outline backups, working notes.
+_temp/
